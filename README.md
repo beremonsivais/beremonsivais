@@ -1,8 +1,9 @@
-👋 Hi, I’m @beremonsivais
-👀 I’m interested in mathematical computing projects. 
-🌱 I’m currently deciding which language to focus on. 
-💞️ I’m looking to collaborate on projects involving mathematical models. 
-📫 How to reach me berenicemonsivais@gmail.com
+# Berenice Monsiváis
+## About me
+- I like writing and mathematical computing.
+- I'm interested in technical writing projects to combine my writing skills with my computer science background.
+- I enjoy running and writing short stories. Contact me to read my literary work.
+- 📫 berenicemonsivais@gmail.com
 
 <!---
 beremonsivais/beremonsivais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
