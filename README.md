@@ -1,4 +1,4 @@
-# Berenice Monsiváis
+# Berenice Monsivais
 ## About me
 - I like writing and mathematical computing.
 - I'm interested in technical writing projects which combine my writing skills with my computer science background.
